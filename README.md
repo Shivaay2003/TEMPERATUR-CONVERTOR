@@ -12,6 +12,7 @@ User-Friendly Interface: Intuitive design ensures ease of use, making temperatur
 Dynamic Functionality: Utilizing the power of JavaScript, the convertor delivers real-time results, enhancing productivity and convenience.
 Customization Options: Personalize your experience by adjusting settings and preferences to suit your specific requirements.
 Responsive Design: Accessible across various devices, including desktops, laptops, tablets, and smartphones, ensuring flexibility and convenience on the go.
+
 How It Works:
 Simply input the temperature value and select the desired unit for conversion. The Temperature Convertor instantly calculates and displays the equivalent values in other units, providing accurate results in a matter of seconds. Whether you're planning daily tasks, monitoring weather conditions, or studying scientific data, this tool caters to your diverse needs with precision and reliability.
 
