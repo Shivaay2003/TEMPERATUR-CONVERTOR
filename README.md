@@ -1,4 +1,4 @@
-# TEMPERATUR-CONVERTOR
+# TEMPERATURE-CONVERTOR
 Project Title: Temperature Convertor - Simplify Your Daily Tasks!
 Introduction:
 Welcome to the Temperature Convertor project, designed to streamline your daily activities effortlessly. This innovative tool is crafted using HTML, CSS, and JavaScript, offering seamless temperature conversions to optimize your workflow.
